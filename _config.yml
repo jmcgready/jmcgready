@@ -13,13 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jekyll Netlify CMS
-email: your-email@example.com
+title: jmcgready.com
+email: contactme@jmcgready.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the basic Jekyll starter site, with Netlify CMS integrated and using
-  Netlify Identity for authentication.
+  Some people just can't be described in a single sentence.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://jmcgready.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
@@ -38,8 +37,8 @@ minima:
 # - about.html
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: jmcgready
+github_username:  jmcgready
 rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll

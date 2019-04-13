@@ -19,15 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Some people just can't be described in a single sentence.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jmcgready.com" # the base hostname & protocol for your site, e.g. http://example.com
-
-defaults:
-   -
-     scope:
-       path: ""
-       type: "posts"
-       values:
-           layout: "post"
-           permalink: ":title"
+permalink: none
 
 # Build settings
 theme: minima

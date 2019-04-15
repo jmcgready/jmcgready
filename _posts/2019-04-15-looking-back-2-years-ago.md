@@ -21,7 +21,7 @@ The view from my room was more sobering and, in retrospect, more in keeping with
 
 I was chasing some loosely defined desire for self-improvement via osmosis, and thought that staying in higher category hotel in FiDi (on _my birthday,_ of all days) would lend me that magical missing _something._
 
-_**It didn't.**_
+**_It didn't._**
 
 The place was awesome, but I found it insulated from the rest of town, especially at night.
 
@@ -29,5 +29,4 @@ My two days _(and nights)_ were spent dashing madly about town, ticking off a se
 
 ## and now...
 
-I'm at the tail end of a week's vacation at home - \
-with the highlight being a dinner with my family at an Italian restaurant nearby.  It's become _enough_.
+I'm at the tail end of a week's vacation at home - with the highlight being a dinner with my family at an Italian restaurant nearby.  It's become _enough_.

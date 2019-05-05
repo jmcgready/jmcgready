@@ -4,8 +4,11 @@ title: Missed Call
 categories: words
 ---
 
+Sorry
 
-> Written with [StackEdit](https://stackedit.io/).
+I couldn't answer the call
+
+of your litmus test
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzgxODE2NF19
+eyJoaXN0b3J5IjpbOTMwNjIzMzYzXX0=
 -->

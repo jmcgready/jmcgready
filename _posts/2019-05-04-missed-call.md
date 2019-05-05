@@ -16,11 +16,9 @@ You
 
 went right to voicemail, as I
 
- was busy
+was busy being decent
 
-being decent
-
-elsewhere
+somewhere else
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDExMjA1NDRdfQ==
+eyJoaXN0b3J5IjpbMTg3NTI1NTE0MF19
 -->

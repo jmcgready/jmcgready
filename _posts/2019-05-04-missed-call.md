@@ -14,13 +14,13 @@ of virtues
 
 You
 
-went right to voicemail
+went right to voicemail, as I
 
-as I was busy
+ was busy
 
 being decent
 
 elsewhere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODg3NzI3MTZdfQ==
+eyJoaXN0b3J5IjpbLTEyMDExMjA1NDRdfQ==
 -->

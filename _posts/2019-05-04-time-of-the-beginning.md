@@ -14,7 +14,11 @@ of the man,
 of the woman,
 of the loner,
 of the lover,
-of the single
+of the single,
+of the couple, then
+of the son,
+of the daughter, then
+of the couple again
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTkwMjg4Ml19
+eyJoaXN0b3J5IjpbMTM1NTkwNTUwXX0=
 -->

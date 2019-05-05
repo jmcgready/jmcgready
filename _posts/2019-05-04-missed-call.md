@@ -18,7 +18,9 @@ went right to voicemail
 
 as I was busy
 
+being decent
 
+elsewhere
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjE4MzA0XX0=
+eyJoaXN0b3J5IjpbLTEzODg3NzI3MTZdfQ==
 -->

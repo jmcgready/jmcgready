@@ -8,7 +8,17 @@ Sorry
 
 I couldn't answer the call
 
-of your litmus test
+of your litmus test checklist
+
+of virtues
+
+You
+
+went right to voicemail
+
+as I was busy
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwNjIzMzYzXX0=
+eyJoaXN0b3J5IjpbLTgzMjE4MzA0XX0=
 -->

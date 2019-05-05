@@ -11,7 +11,10 @@ of the girl,
 of the brother,
 of the sister,
 of the man,
-of the woman
+of the woman,
+of the loner,
+of the lover,
+of the single
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MDYwODg0XX0=
+eyJoaXN0b3J5IjpbMTgxOTkwMjg4Ml19
 -->

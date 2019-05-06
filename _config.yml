@@ -25,7 +25,7 @@ permalink: /:title:output_ext
 theme: minima
 
 # minima theme settings
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this

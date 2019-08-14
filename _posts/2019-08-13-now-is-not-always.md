@@ -38,8 +38,8 @@ where ADHD is the new Tetragrammaton.
 *No moment is wasted.*<br>
 *Now is not always.*
 <br>
-I'm tired of it all right now
-I can't see things improving
+I'm tired of it all right now <br>
+I can't see things improving <br>
 I can't see how this ends
 <br>
 
@@ -47,5 +47,5 @@ I can't see how this ends
 *No moment is wasted.*<br>
 *Now is not always.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MzE5OTUwNiwxOTIyMTg3NzhdfQ==
+eyJoaXN0b3J5IjpbMTg5NTgyNzk0NCwxOTIyMTg3NzhdfQ==
 -->

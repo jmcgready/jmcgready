@@ -8,7 +8,7 @@ haven't posted in a while..
 A collection of things have happened:
 <br>
 * a neighborhood social post gave me the motivation needed to clean up my apartment, 
-which was* (and to an extent still is)* cluttered
+which was  *(and to an extent still is)* cluttered
 * I've reached a milestone at my job where retirement is both possible and improbable
 * Like many others, I face a barrage of *new normals*, most of which tend to be worse than the *preceding* normals
 <br>
@@ -40,10 +40,10 @@ I'm tired of it all right now
 I can't see things improving
 I can't see how this ends
 <br>
-*Remember
-No moment is wasted.
-Now is not always.
-*
+
+*Remember*
+*No moment is wasted.*
+*Now is not always.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDQ2MDUwOF19
+eyJoaXN0b3J5IjpbLTI3NDM0NTk1MF19
 -->

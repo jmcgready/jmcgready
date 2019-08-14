@@ -17,24 +17,24 @@ which was* (and to an extent still is)* cluttered
 *Now is not always.*
 
 <br>
-Thought I'd be farther along than I am now.
-I see people ahead of me who once were alongside me.
+Thought I'd be farther along than I am now.<br>
+I see people ahead of me who once were alongside me.<br>
 The alternate timelines play out in my head, strengthened by hindsight. 
 <br>
 
 *Remember*
 *No moment is wasted.*
 *Now is not always.*
-*
+
 <br>
-I once had long term plans, now nothing
-Hammered down by  a culture of all-encompassing oblivious inattention 
+I once had long term plans, now nothing<br>
+Hammered down by  a culture of all-encompassing oblivious inattention <br>
 where ADHD is the new Tetragrammaton.
 <br>
-*Remember
-No moment is wasted.
-Now is not always.
-*
+
+*Remember*
+*No moment is wasted.*
+*Now is not always.*
 <br>
 I'm tired of it all right now
 I can't see things improving
@@ -45,5 +45,5 @@ No moment is wasted.
 Now is not always.
 *
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzA0NjY1Ml19
+eyJoaXN0b3J5IjpbLTcyNDQ2MDUwOF19
 -->

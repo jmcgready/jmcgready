@@ -34,7 +34,7 @@ Hammered down by  a culture of all-encompassing oblivious inattention <br>
 where ADHD is the new Tetragrammaton.
 <br>
 
-**Remember*<br>
+*Remember*<br>
 *No moment is wasted.*<br>
 *Now is not always.*
 <br>
@@ -43,9 +43,9 @@ I can't see things improving
 I can't see how this ends
 <br>
 
-*Remember*
-*No moment is wasted.*
+*Remember*<br>
+*No moment is wasted.*<br>
 *Now is not always.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzExMjkzNTYsMTkyMjE4Nzc4XX0=
+eyJoaXN0b3J5IjpbLTI3MzE5OTUwNiwxOTIyMTg3NzhdfQ==
 -->

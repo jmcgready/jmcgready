@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Now is not always
 category: life
 ---
@@ -12,6 +13,7 @@ which was  *(and to an extent still is)* cluttered
 * I've reached a milestone at my job where retirement is both possible and improbable
 * Like many others, I face a barrage of *new normals*, most of which tend to be worse than the *preceding* normals
 <br>
+
 *Remember*
 *No moment is wasted.*
 *Now is not always.*
@@ -45,5 +47,5 @@ I can't see how this ends
 *No moment is wasted.*
 *Now is not always.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDM0NTk1MF19
+eyJoaXN0b3J5IjpbMTUyMzAxMjc5MF19
 -->

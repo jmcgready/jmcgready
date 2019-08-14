@@ -14,8 +14,8 @@ which was  *(and to an extent still is)* cluttered
 * Like many others, I face a barrage of *new normals*, most of which tend to be worse than the *preceding* normals
 <br>
 
-*Remember*
-*No moment is wasted.*
+*Remember*<br>
+*No moment is wasted.*<br>
 *Now is not always.*
 
 <br>
@@ -47,5 +47,5 @@ I can't see how this ends
 *No moment is wasted.*
 *Now is not always.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzAxMjc5MF19
+eyJoaXN0b3J5IjpbMTkyMjE4Nzc4XX0=
 -->

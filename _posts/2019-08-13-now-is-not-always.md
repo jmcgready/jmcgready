@@ -8,7 +8,7 @@ haven't posted in a while..
 
 A collection of things have happened:
 <br>
-* a neighborhood social post gave me the motivation needed to clean up my apartment, 
+* a neighborhood social post gave me the motivation needed to clean up my apartment,<br> 
 which was  *(and to an extent still is)* cluttered
 * I've reached a milestone at my job where retirement is both possible and improbable
 * Like many others, I face a barrage of *new normals*, most of which tend to be worse than the *preceding* normals
@@ -48,5 +48,6 @@ I can't see how this ends
 *No moment is wasted.*<br>
 *Now is not always.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODc2NjUyNDQsMTkyMjE4Nzc4XX0=
+eyJoaXN0b3J5IjpbLTY5MDM1NjkwLC0xNDg3NjY1MjQ0LDE5Mj
+IxODc3OF19
 -->

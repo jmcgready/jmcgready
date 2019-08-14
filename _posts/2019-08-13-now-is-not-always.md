@@ -6,24 +6,25 @@ category: life
 haven't posted in a while.. 
 
 A collection of things have happened:
-
+<br>
 * a neighborhood social post gave me the motivation needed to clean up my apartment, 
 which was* (and to an extent still is)* cluttered
 * I've reached a milestone at my job where retirement is both possible and improbable
 * Like many others, I face a barrage of *new normals*, most of which tend to be worse than the *preceding* normals
 <br>
-*Remember
-No moment is wasted.
-Now is not always.
-*
+*Remember*
+*No moment is wasted.*
+*Now is not always.*
+
 <br>
 Thought I'd be farther along than I am now.
 I see people ahead of me who once were alongside me.
 The alternate timelines play out in my head, strengthened by hindsight. 
 <br>
-*Remember
-No moment is wasted.
-Now is not always.
+
+*Remember*
+*No moment is wasted.*
+*Now is not always.*
 *
 <br>
 I once had long term plans, now nothing
@@ -43,3 +44,6 @@ I can't see how this ends
 No moment is wasted.
 Now is not always.
 *
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTc2NzA0NjY1Ml19
+-->

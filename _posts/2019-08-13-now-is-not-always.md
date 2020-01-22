@@ -23,8 +23,8 @@ I see people ahead of me who once were alongside me.<br>
 The alternate timelines play out in my head, strengthened by hindsight. 
 <br>
 
-*Remember*<br>
-*No moment is wasted.*<br>
+*Remember*
+*No moment is wasted.*
 *Now is not always.*
 
 <br>
@@ -33,9 +33,10 @@ Hammered down by  a culture of all-encompassing oblivious inattention <br>
 where ADHD is the new Tetragrammaton.
 <br>
 
-*Remember*<br>
-*No moment is wasted.*<br>
+*Remember*
+*No moment is wasted.*
 *Now is not always.*
+
 <br>
 <br>
 I'm tired of it all right now <br>
@@ -43,10 +44,11 @@ I can't see things improving <br>
 I can't see how this ends
 <br>
 
-*Remember*<br>
-*No moment is wasted.*<br>
+*Remember*
+*No moment is wasted.*
 *Now is not always.*
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyMTgzMzc4LC02OTAzNTY5MCwtMTQ4Nz
+eyJoaXN0b3J5IjpbMTI1MzUyNDEwLC02OTAzNTY5MCwtMTQ4Nz
 Y2NTI0NCwxOTIyMTg3NzhdfQ==
 -->

@@ -6,9 +6,9 @@ category: work
 tags : [Compendium of Curiosities]
 ---
 
-from Seth's Blog http://sethgodin.typepad.com/seths\_blog/2012/05/a-hierarchy-of-business-to-business-needs.html
+from Seth's Blog - 2012-05-03
 
-------
+
 
 If you're selling a product or service to a business--to a non-owner--consider this hierarchy, from primary needs on down:
 
@@ -40,13 +40,10 @@ That means that a sales pitch that begins with how much money the organization w
 
 B2B selling is just like regular sales, except the customer (who might not be the person you're meeting with) is spending someone else's money (and wants to please the boss).
 
-  
+  http://sethgodin.typepad.com/seths\_blog/2012/05/a-hierarchy-of-business-to-business-needs.html
 
 
-[![](http://feeds.feedburner.com/~ff/typepad/sethsmainblog?d=yIl2AUoC8zA)](http://feeds.feedburner.com/~ff/typepad/sethsmainblog?a=msrHVUVi57s:32ppsbijXZk:yIl2AUoC8zA) [![](http://feeds.feedburner.com/~ff/typepad/sethsmainblog?d=qj6IDK7rITs)](http://feeds.feedburner.com/~ff/typepad/sethsmainblog?a=msrHVUVi57s:32ppsbijXZk:qj6IDK7rITs)  
-
-![](http://feeds.feedburner.com/~r/typepad/sethsmainblog/~4/msrHVUVi57s)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjc2NzkyMTldfQ==
+eyJoaXN0b3J5IjpbLTYyODkwOTYwXX0=
 -->

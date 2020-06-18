@@ -6,8 +6,6 @@ category: work
 tags : [Compendium of Curiosities]
 ---
 
-# A Hierarchy of Business to Business Needs
-
 from Seth's Blog http://sethgodin.typepad.com/seths\_blog/2012/05/a-hierarchy-of-business-to-business-needs.html
 
 ------
@@ -49,3 +47,6 @@ B2B selling is just like regular sales, except the customer (who might not be th
 
 ![](http://feeds.feedburner.com/~r/typepad/sethsmainblog/~4/msrHVUVi57s)  
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwMjc2NzkyMTldfQ==
+-->

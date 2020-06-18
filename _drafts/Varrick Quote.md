@@ -1,5 +1,5 @@
 layout: post
-title: Varrick on 
+title: Varrick's guide to life
 categories: life
 
 > In that story of yours—the fisherman watching the stars,
@@ -19,5 +19,5 @@ categories: life
 
  *Varric - Dragon Age*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzAxNzc1OV19
+eyJoaXN0b3J5IjpbLTE4ODIyODg4NDFdfQ==
 -->

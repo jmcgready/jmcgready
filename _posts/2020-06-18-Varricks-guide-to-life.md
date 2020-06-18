@@ -1,7 +1,8 @@
+---
 layout: post
 title: Varrick's guide to life - Dragon Age
 categories: life
-
+---
 > In that story of yours—the fisherman watching the stars,
 >  dying alone—you thought he gave up right?
 >  
@@ -19,5 +20,5 @@ categories: life
 
  *Varric - Dragon Age*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjYxMTcyXX0=
+eyJoaXN0b3J5IjpbLTIwOTUwNDY3MzZdfQ==
 -->

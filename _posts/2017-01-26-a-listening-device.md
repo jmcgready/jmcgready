@@ -16,7 +16,7 @@ January 24, 2017 at 07:18PM
 > The best way to complain is to make something.  The second best way is to say something.  And if you can organize others to say it with you, even better.
 >
 
-
+http://ift.tt/eQc8PW  
 
 [![](http://ift.tt/Ry3BBF)](http://ift.tt/2khuhK3 "Add to FaceBook") [![](http://ift.tt/MtkUnG)](http://ift.tt/2k25Ra2 "Like on Facebook") ![](http://ift.tt/MtkVrR)](http://ift.tt/2k24jgq "Add to LinkedIn") [![](http://ift.tt/MtkUnO)](http://ift.tt/2khjLm8 "Tweet This") [![](http://ift.tt/PUT26G)](http://ift.tt/2k2hfCL "Subscribe by email")  
 
@@ -27,5 +27,5 @@ January 24, 2017 at 07:18PM
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTczMTc1NV19
+eyJoaXN0b3J5IjpbLTQxMDQwMTE3N119
 -->

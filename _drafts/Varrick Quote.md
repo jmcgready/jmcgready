@@ -1,3 +1,7 @@
+layout: post
+title: Varrick on 
+categories: life
+
 > In that story of yours—the fisherman watching the stars,
 >  dying alone—you thought he gave up right?
 >  
@@ -13,7 +17,7 @@
 > He kept going.
 > That's as close to beating the world as anyone gets.
 
- Varric - Dragon Age
+ *Varric - Dragon Age*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTUwOTI5OF19
+eyJoaXN0b3J5IjpbMTQ3NzAxNzc1OV19
 -->

@@ -8,12 +8,7 @@ tags : [Compendium of Curiosities]
 
 from Seth's Blog - 2012-05-03
 
-
-
 If you're selling a product or service to a business--to a non-owner--consider this hierarchy, from primary needs on down:
-
-  
-
 
 *   Avoiding risk
   
@@ -27,23 +22,12 @@ If you're selling a product or service to a business--to a non-owner--consider t
   
 *   Making a profit
 
-
-
-
 In most large organizations, nothing happens unless at least one of these needs are met, and in just about every organization big enough and profitable enough to buy from you, the order of needs starts with the first one and works its way down the list.
-
-  
-
-That means that a sales pitch that begins with how much money the organization will make is pretty unlikely to work. Instead, the amount of profit has to be tied in to one of the other more primary needs of the person sitting across the table from you (as well as the committee or boss she reports to).
-
-  
-
-B2B selling is just like regular sales, except the customer (who might not be the person you're meeting with) is spending someone else's money (and wants to please the boss).
 
   http://sethgodin.typepad.com/seths\_blog/2012/05/a-hierarchy-of-business-to-business-needs.html
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODkwOTYwXX0=
+eyJoaXN0b3J5IjpbMTMyMTE4NjA5NSwtNjI4OTA5NjBdfQ==
 -->

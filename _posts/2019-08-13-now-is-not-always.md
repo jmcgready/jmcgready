@@ -14,7 +14,9 @@ A collection of things have happened:
 <br>
 
 *Remember*
+
 *No moment is wasted.*
+
 *Now is not always.*
 
 <br>
@@ -24,8 +26,11 @@ The alternate timelines play out in my head, strengthened by hindsight.
 <br>
 
 *Remember*
+
 *No moment is wasted.*
+
 *Now is not always.*
+
 
 <br>
 I once had long term plans, now nothing<br>
@@ -34,8 +39,11 @@ where ADHD is the new Tetragrammaton.
 <br>
 
 *Remember*
+
 *No moment is wasted.*
+
 *Now is not always.*
+
 
 <br>
 <br>
@@ -45,10 +53,12 @@ I can't see how this ends
 <br>
 
 *Remember*
+
 *No moment is wasted.*
+
 *Now is not always.*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzUyNDEwLC02OTAzNTY5MCwtMTQ4Nz
-Y2NTI0NCwxOTIyMTg3NzhdfQ==
+eyJoaXN0b3J5IjpbMTUwNzE2NzQwNiwxMjUzNTI0MTAsLTY5MD
+M1NjkwLC0xNDg3NjY1MjQ0LDE5MjIxODc3OF19
 -->

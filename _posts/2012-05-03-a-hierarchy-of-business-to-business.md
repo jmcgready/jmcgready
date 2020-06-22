@@ -26,6 +26,3 @@ from [Seth's Blog - 2012-05-03](http://sethgodin.typepad.com/seths%5C_blog/2012/
 
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwMTU0MjY3LC02Mjg5MDk2MF19
--->

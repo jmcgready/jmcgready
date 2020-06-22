@@ -58,7 +58,3 @@ I can't see how this ends
 
 *Now is not always.*
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzE2NzQwNiwxMjUzNTI0MTAsLTY5MD
-M1NjkwLC0xNDg3NjY1MjQ0LDE5MjIxODc3OF19
--->

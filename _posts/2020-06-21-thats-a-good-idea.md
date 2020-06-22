@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "That's A Good Idea" 
@@ -15,5 +14,6 @@ categories: work
 
 From [Seth's Blog - 06/20/2020](https://seths.blog/2020/06/thats-a-good-idea/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTcyNjk4NzRdfQ==
+eyJoaXN0b3J5IjpbLTE0NjY0MTM4MjgsLTEwNTcyNjk4NzRdfQ
+==
 -->

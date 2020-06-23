@@ -18,7 +18,7 @@ email: contactme@jmcgready.com
 description: >- # this means to ignore newlines until "baseurl:"
   Some people just can't be described in a single sentence.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jmcgready.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jmcgready.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:title:output_ext
 
 # Build settings

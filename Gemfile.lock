@@ -29,6 +29,8 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
+    jekyll-compose (0.12.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (1.5.2)
@@ -81,6 +83,7 @@ PLATFORMS
 DEPENDENCIES
   concurrent-ruby (~> 1.1.1)
   jekyll (~> 3.8)
+  jekyll-compose
   jekyll-feed (~> 0.11)
   jekyll-seo-tag (~> 2.5)
   jekyll-sitemap (~> 1.2)

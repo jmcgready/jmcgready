@@ -24,6 +24,7 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag", "~> 2.5"
   gem "jekyll-sitemap", "~> 1.2"
   gem 'jekyll-compose', group: [:jekyll_plugins]
+  gem "kramdown-parser-gfm"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
